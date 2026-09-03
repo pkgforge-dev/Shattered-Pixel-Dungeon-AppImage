@@ -5,5 +5,5 @@ Exec=ShatteredPixelDungeon
 Icon=icon_256
 Type=Application
 Categories=Game;AdventureGame;
-StartupWMClass=ShatteredPixelDungeon
+StartupWMClass=Shattered Pixel Dungeon
 Terminal=false
